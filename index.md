@@ -18,4 +18,4 @@ We build a generative AI system that leverages large-scale therapeutically infor
 
 # Opportunities
 We are hiring RNA, AI, and Data Science experts.
-If this is you, [get in touch](mailto:job-applications@rnafold.ai?subject=Job enquiry)!
+If this is you, [get in touch](mailto:job-applications@rnafold.ai?subject=Job inquiry)!
