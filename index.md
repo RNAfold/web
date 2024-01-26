@@ -3,8 +3,6 @@ layout: home
 title: Home
 ---
 
-# Big news is about to drop — stay tuned!
-
 # About
 We are developing next generation AI-powered drugs targeting the "dark genome", the 75% of the human genome that is transcribed into non-coding RNA molecules but not translated into proteins.
 These non-coding RNAs are a diverse class of RNA fulfilling a plethora of functions in the cell and contributing to various diseases such as cancer and neurodegenerative diseases.
