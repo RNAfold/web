@@ -1,4 +1,4 @@
-title: RNAfold.AI
+title: Fold AI
 description: Targeting RNA in disease, AI-first
 taglong: Targeting RNA in disease, AI-first
 tagshort: ""
@@ -10,7 +10,7 @@ repo: https://github.com/
 # author settings
 
 author:
-  name: RNAfold.AI
+  name: Fold AI
   email: hallo@rnafold.ai
 photo: /assets/jpg/photo.jpg
 
