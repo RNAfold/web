@@ -1,6 +1,6 @@
 title: Fold AI
 description: Targeting RNA in disease, AI-first
-taglong: Targeting RNA in disease, AI-first
+taglong: Unfolding RNA with AI
 tagshort: ""
 url: https://rnafold.ai
 baseurl: ""
@@ -11,7 +11,7 @@ repo: https://github.com/
 
 author:
   name: Fold AI
-  email: hallo@rnafold.ai
+  email: contact@rnafold.ai
 photo: /assets/jpg/photo.jpg
 
 #  facebook: username
